@@ -7,10 +7,12 @@
 **EAD** 
 - [Lab1](https://github.com/sakshamgurung/classAssignments/blob/master/ead/lab1/lab1.md)
 
+**Elective- Cloud Computing**  
+
+- [Assignment 2](https://github.com/sakshamgurung/classAssignments/blob/master/cc/assignment%202/assignment%202.md)
+
 **RTS**  
 
 **IPPR**  
 
 **DS**  
-
-**Elective**  
