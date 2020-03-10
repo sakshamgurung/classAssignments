@@ -6,6 +6,7 @@
 
 **EAD** 
 - [Lab1](https://github.com/sakshamgurung/classAssignments/blob/master/ead/lab1/lab1.md)
+- [Lab3](https://github.com/sakshamgurung/classAssignments/blob/master/ead/lab3/Creation%20pattern%20note.md)
 
 **Elective- Cloud Computing**  
 
