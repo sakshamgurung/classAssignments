@@ -60,9 +60,9 @@ dimension of cloud formation to our requirements.
 
 **Here:**
 
-**Int/Ext:** Internal/External**, Pro/Open:** Proprietary/Open**,**
+**Int/Ext:** Internal/External, **Pro/Open:** Proprietary/Open,
 
-**Para/De-para:** Parametrized/De-parametrized**, Out/In:** Outsourced/Insourced
+**Para/De-para:** Parametrized/De-parametrized, **Out/In:** Outsourced/Insourced
 
 **Team member:**
 
